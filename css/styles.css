@@ -130,7 +130,7 @@ body {
 }
 
 .section-timeline {
-  background-color: #666;
+  background: url(../img/grey_wash_wall.png) center;
   padding-top: 5rem;
 
 }
@@ -238,7 +238,7 @@ body {
 /* TEAM */
 
 .team-section {
-  background-color: #666;
+  background: url(../img/grey_wash_wall.png) center;
   color: white;
 }
 
